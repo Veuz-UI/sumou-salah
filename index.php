@@ -589,16 +589,16 @@
 
 
 
-          <div class="my-24 flex max-w-md mx-auto space-x-4 text-center">
+          <!-- <div class="my-24 flex max-w-md mx-auto space-x-4 text-center">
             <div class='countup py-3 w-1/4 bg-blue-200' data-to="3"></div>
             <div class='countup py-3 w-1/4 bg-red-200' data-to="3.5"></div>
             <div class='countup py-3 w-1/4 bg-yellow-200' data-to="50000"></div>
             <div class='countup py-3 w-1/4 bg-green-200' data-to="1300"></div>
-          </div>
-
+          </div> -->
+<!-- 
           <script>
             
-          </script>
+          </script> -->
 
 
         <div id="counter">
@@ -915,7 +915,7 @@ $('.project-carousel').owlCarousel({
       nav: true,
       autoplay: true,
       autoplayTimeout: 4000, 
-      animateOut: 'fadeOut', 
+      // animateOut: 'fadeOut', 
       animateIn: 'fadeIn', 
       responsive: {
         0: {

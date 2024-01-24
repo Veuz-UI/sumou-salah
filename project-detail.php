@@ -255,7 +255,7 @@
               <div class="tab-pane fade show active" id="pills-typea" role="tabpanel" aria-labelledby="pills-typea-tab">
                 <div class="row">
 
-                  <div class="col-lg-8">
+                  <div class="col-xl-8 col-lg-12">
                     <div class="row gx-md-4 gx-2">
                       <div class="col-md-2 col-3">
                         <div id="thumbnailCarousel" class="carousel slide thumbnail-carousel" data-bs-ride="carousel">
@@ -324,7 +324,7 @@
 
                     </div>
                   </div>
-                  <div class="col-lg-4 plot-type-div">
+                  <div class="col-xl-4 plot-type-div">
                     <div class="row">
                       <div class="col-md-6">
                         <div class="plot-type-bx">
@@ -357,7 +357,7 @@
               <div class="tab-pane fade" id="pills-typeb" role="tabpanel" aria-labelledby="pills-typeb-tab">
                 <div class="row">
 
-                  <div class="col-md-8">
+                  <div class="col-xl-8 col-lg-12">
                     <div class="row">
                       <div class="col-lg-2">
                         <div id="thumbnailCarousel1" class="carousel slide thumbnail-carousel" data-bs-ride="carousel">
@@ -426,7 +426,7 @@
 
                     </div>
                   </div>
-                  <div class="col-md-4 plot-type-div">
+                  <div class="col-xl-4 plot-type-div">
                     <div class="row">
                       <div class="col-md-6">
                         <div class="plot-type-bx">
@@ -459,7 +459,7 @@
               <div class="tab-pane fade" id="pills-typec" role="tabpanel" aria-labelledby="pills-typec-tab">
                 <div class="row">
 
-                  <div class="col-md-8">
+                  <div class="col-xl-8 col-lg-12">
                     <div class="row">
                       <div class="col-lg-2">
                         <div id="thumbnailCarousel2" class="carousel slide thumbnail-carousel" data-bs-ride="carousel">
@@ -528,7 +528,7 @@
 
                     </div>
                   </div>
-                  <div class="col-md-4 plot-type-div">
+                  <div class="col-xl-4 plot-type-div">
                     <div class="row">
                       <div class="col-md-6">
                         <div class="plot-type-bx">
@@ -561,7 +561,7 @@
               <div class="tab-pane fade" id="pills-typed" role="tabpanel" aria-labelledby="pills-typed-tab">
                 <div class="row">
 
-                  <div class="col-md-8">
+                  <div class="col-xl-8 col-lg-12">
                     <div class="row">
                       <div class="col-lg-2">
                         <div id="thumbnailCarousel3" class="carousel slide thumbnail-carousel" data-bs-ride="carousel">
@@ -630,7 +630,7 @@
 
                     </div>
                   </div>
-                  <div class="col-md-4 plot-type-div">
+                  <div class="col-xl-4 plot-type-div">
                     <div class="row">
                       <div class="col-md-6">
                         <div class="plot-type-bx">
