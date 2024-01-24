@@ -914,7 +914,7 @@ $('.project-carousel').owlCarousel({
       margin: 10,
       nav: true,
       autoplay: true,
-      autoplayTimeout: 4000, 
+      autoplayTimeout: 7000, 
       // animateOut: 'fadeOut', 
       animateIn: 'fadeIn', 
       responsive: {
